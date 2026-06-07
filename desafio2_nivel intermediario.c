@@ -91,7 +91,7 @@ int main()
     printf("\033[1mÁrea:\033[0m %.2f km²\n", area1);
     printf("\033[1mPIB:\033[0m %.2f\n", pib1);
     printf("\033[1mPontos Turísticos:\033[0m %d\n", pontos1);
-    printf("\033[1mDensidade Populacional:\033[0m %.2f hab/km2 \n, densidade1");
+    printf("\033[1mDensidade Populacional:\033[0m %.2f hab/km2 \n", densidade1);
     printf("\033[1mPIB per Capta:\033[0m %.2f\n", pib_percapta1);
 
     // texto em roxo
@@ -104,7 +104,7 @@ int main()
     printf("\033[1mÁrea:\033[0m %.2f km²\n", area2);
     printf("\033[1mPIB:\033[0m %.2f\n", pib2);
     printf("\033[1mPontos Turísticos:\033[0m %d\n", pontos2);
-    printf("\033[1mDensidade Populacional:\033[0m %.2f hab/km2 \n, densidade2");
+    printf("\033[1mDensidade Populacional:\033[0m %.2f hab/km2 \n", densidade2);
     printf("\033[1mPIB per Capta:\033[0m %.2f\n", pib_percapta2);
 
     // Comparação 1: Densidadede populacional
