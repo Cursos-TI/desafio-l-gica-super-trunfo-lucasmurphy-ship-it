@@ -16,7 +16,7 @@ int main()
 
     printf("Para iniciarmos o jogo, quero primeiro conhecer você. Qual seu nome completo? \n");
     scanf(" %29[^\n]", nome);
-    printf("Maravilha \033[1;31m%s\033[0m! Bora iniciar o jogo, boa sorte!\n", nome);
+    printf("Maravilha \033[1;31m%s\033[0m! Bora iniciar o jogo, boa sorte!\n", nome); //Usei código de cor e negrito
 
     // Cadastro da primeira carta
     printf("Digite o código da carta. \n");
